@@ -4,7 +4,7 @@ end
 
 def my_hash
   wedding_party = {
-    best_man: "Justin Stanton"
+    best_man: "Justin Stanton",
     groomsmen: "Daniel Gonzales, Keith Sizemore, Justin Helfen, Cameron Bear"
   }
 end
